@@ -8,8 +8,8 @@
 <br>
 <div style="display: inline_block"><br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsamaral&show_icons=true&theme=tokyonight&card_width=200px)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsamaral&layout=compact&theme=tokyonight&card_width=500px))](https://github.com/gsamaral/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gsamaral&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsamaral&layout=compact&theme=tokyonight))](https://github.com/gsamaral/github-readme-stats)
 
 </div>
 
